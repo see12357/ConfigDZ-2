@@ -1,7 +1,8 @@
-﻿<config>
-    <mermaidPath>/Users/coffein/desktop/node_modules/mermaid.cli</mermaidPath>
+<config>    
+<mermaidPath>/Users/coffein/desktop/node_modules/.bin/mmdc</mermaidPath>
     <packageName>express</packageName>
-    <packageVersion>4.18.2</packageVersion>
-    <maxDepth>2</maxDepth>
+    <packageVersion>4.17.1</packageVersion>
+    <maxDepth>7</maxDepth>
     <repoUrl>https://registry.npmjs.org</repoUrl>
 </config>
+
